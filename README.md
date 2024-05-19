@@ -1,4 +1,4 @@
-# Moringa-Core-Independent-Project-Week-12
+# Predicting Ad Click-Through Rates for a Global Online Cryptography Course
 
 ## Introduction 
 ## Advertising Project
